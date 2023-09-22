@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Connettiti con me su <a href="https://www.linkedin.com/in/matteocalvaresi">LinkedIn</a>..<br>🌎 Visita il mio <a href="https://matteocalva.dev">sito</a>.</p>
+<p align="left">👨🏻‍💻 Connettiti con me su <a href="https://www.linkedin.com/in/matteocalvaresi">LinkedIn</a>.<br>🌎 Visita il mio <a href="https://matteocalva.dev">sito</a>.</p>
 
 ###
 
