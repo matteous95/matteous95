@@ -1,6 +1,3 @@
-<div align="left">
-  <img height="200" src="https://firebasestorage.googleapis.com/v0/b/matteocalva-dev.appspot.com/o/MatteoFotoCerchio.png?alt=media&token=19434a5c-7d35-4db9-a23b-5f921d4fb0e6"  />
-</div>
 
 ###
 
@@ -16,7 +13,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Connettiti con me su LinkedIn .<br>🌎 Visita il mio <a href="https://matteocalva.dev">sito</a>.</p>
+<p align="left">👨🏻‍💻 Connettiti con me su <a href="https://www.linkedin.com/in/matteocalvaresi">LinkedIn</a>..<br>🌎 Visita il mio <a href="https://matteocalva.dev">sito</a>.</p>
 
 ###
 
